@@ -6,3 +6,6 @@ build/
 *.iws
 *.ipr
 *.ids
+*.xml
+*.gradle
+*.bat
